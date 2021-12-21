@@ -1,0 +1,6 @@
+framework module epub_viewer {
+  umbrella header "epub_viewer-umbrella.h"
+
+  export *
+  module * { export * }
+}

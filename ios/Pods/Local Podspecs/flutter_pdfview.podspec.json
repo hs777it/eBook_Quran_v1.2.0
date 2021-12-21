@@ -1,0 +1,32 @@
+{
+  "name": "flutter_pdfview",
+  "version": "1.0.2",
+  "summary": "Flutter plugin that display a pdf using PDFkit.",
+  "description": "A Flutter plugin for display pdf from the library as well as from url\nDownloaded by pub (not CocoaPods).",
+  "homepage": "https://github.com/endigo/flutter_pdfview",
+  "license": {
+    "type": "BSD",
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "endigo": "endigo.18@gmail.com"
+  },
+  "source": {
+    "http": "https://github.com/endigo/flutter_pdfview"
+  },
+  "documentation_url": "https://pub.dev/packages/flutter_pdfview",
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "VALID_ARCHS": "armv7 arm64 x86_64"
+  }
+}

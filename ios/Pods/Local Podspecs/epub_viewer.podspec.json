@@ -1,0 +1,30 @@
+{
+  "name": "epub_viewer",
+  "version": "0.0.1",
+  "summary": "A epub reader flutter plugin project.",
+  "description": "A new flutter plugin project.",
+  "homepage": "https://github.com/JideGuru/epub_reader.git",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "jideguru": "guruliciousjide@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": [
+    "Classes/**/*"
+  ],
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "EpubViewerKit": [
+      "~> 0.1.2"
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  }
+}

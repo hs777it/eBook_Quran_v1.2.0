@@ -1,0 +1,6 @@
+framework module EpubViewerKit {
+  umbrella header "EpubViewerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
